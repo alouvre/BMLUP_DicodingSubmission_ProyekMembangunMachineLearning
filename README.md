@@ -11,7 +11,7 @@ Proyek ini sedang dalam tahap penilaian.
 
 ## Hasil dan Evaluasi
 
-![image](https://github.com/user-attachments/assets/09a354ea-dade-4561-b127-42a2689a9291)
+![image](https://github.com/alouvre/BMLUP_DicodingSubmission_ProyekMembangunMachineLearning/blob/main/image/output.png)
 
 
 ### Model Clustering
